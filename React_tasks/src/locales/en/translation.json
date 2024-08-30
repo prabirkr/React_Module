@@ -1,0 +1,9 @@
+{
+    "name": "Name",
+    "email": "Email",
+    "password": "Password",
+    "placeholder_name": "Enter Your Name",
+    "placeholder_email": "Enter Your Email",
+    "placeholder_password": "Enter Password"
+  }
+  

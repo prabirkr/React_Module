@@ -1,0 +1,9 @@
+{
+    "name": "Nom",
+    "email": "Email",
+    "password": "Mot de passe",
+    "placeholder_name": "Entrez votre nom",
+    "placeholder_email": "Entrez votre email",
+    "placeholder_password": "Entrez le mot de passe"
+  }
+  

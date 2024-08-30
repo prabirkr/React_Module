@@ -1,0 +1,9 @@
+{
+    "name": "名前",
+    "email": "メール",
+    "password": "パスワード",
+    "placeholder_name": "名前を入力してください",
+    "placeholder_email": "メールを入力してください",
+    "placeholder_password": "パスワードを入力してください"
+  }
+  

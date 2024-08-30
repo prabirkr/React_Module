@@ -1,0 +1,9 @@
+{
+    "name": "이름",
+    "email": "이메일",
+    "password": "비밀번호",
+    "placeholder_name": "이름을 입력하세요",
+    "placeholder_email": "이메일을 입력하세요",
+    "placeholder_password": "비밀번호를 입력하세요"
+  }
+  
